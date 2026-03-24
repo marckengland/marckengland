@@ -4,7 +4,7 @@ Full-Stack Software Engineer with 2 years of experience building AI-driven SaaS,
 
 ---
 
-### 🛠 Skills
+### Skills
 
 * **Languages:** Python, JavaScript, TypeScript
 * **Frameworks & Libraries:** Flask, Django, React.js, Next.js, React Native, Node.js, Tailwind CSS, Celery
@@ -14,7 +14,7 @@ Full-Stack Software Engineer with 2 years of experience building AI-driven SaaS,
 
 ---
 
-### 🔗 Socials
+### Socials
 
 * **Website:** [marckengland.com](https://marckengland.vercel.app)
 * **LinkedIn:** [marckengland](https://linkedin.com/in/marckengland)
