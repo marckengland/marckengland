@@ -26,7 +26,7 @@
 | Project                                                         | What it does                                                                                                                   | Status                |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
 | **[Investonks](https://marckengland.com/#projects)**            | Investment tracker with a crash radar that compares today's market against 7 past financial crises and an AI portfolio advisor | 🟣 Beta · Invite only |
-| **[PDF Shrinkinator](https://pdf-shrinkinator.vercel.app)**     | Free PDF compressor and click-to-edit visual text editor — no Adobe needed                                                     | 🟢 Live               |
+| **[PDF Shrinkinator](https://pdf-shrinkinator.vercel.app)**     | Free PDF compressor and click-to-edit visual text editor - no Adobe needed                                                     | 🟢 Live               |
 | **[Flowrish CRM](https://marckengland.com/#projects)**          | Sales CRM with AI-drafted emails and Gmail-threaded follow-ups so prospects see one conversation, not five                     | ⚪ Private            |
 | **[Digital Immune System](https://marckengland.com/#projects)** | AI fact-checking for the Philippines with a community jury for gray-area claims                                                | ⚪ Private            |
 | **[Bakit Kita Iboboto?](https://marckengland.com/#projects)**   | Transparency platform: 1,300+ politicians, 165,000+ bills, 77 fact-checked controversies                                       | 🟡 In Development     |
@@ -90,17 +90,17 @@
 
 ### 💡 What I specialize in
 
-- **Production AI integration** — RAG pipelines grounded in real data (not generic LLM guesses), function-calling tools, multi-step agents
-- **Multi-tenant SaaS** — secure, isolated, scalable platforms with proper RBAC
-- **Offline-first apps** — desktop and mobile that survive brownouts and bad networks
-- **Workflow automation** — durable background jobs, scheduled tasks, one-click approvals
-- **Property-based testing** — using fast-check and Hypothesis to catch bugs example tests miss
+- **Production AI integration** - RAG pipelines grounded in real data (not generic LLM guesses), function-calling tools, multi-step agents
+- **Multi-tenant SaaS** - secure, isolated, scalable platforms with proper RBAC
+- **Offline-first apps** - desktop and mobile that survive brownouts and bad networks
+- **Workflow automation** - durable background jobs, scheduled tasks, one-click approvals
+- **Property-based testing** - using fast-check and Hypothesis to catch bugs example tests miss
 
 ---
 
 ### 💬 Let's work together
 
-I'm open to **freelance, contract, and full-time** opportunities — especially in AI products, multi-tenant SaaS, fintech, and civic tech.
+I'm open to **freelance, contract, and full-time** opportunities - especially in AI products, multi-tenant SaaS, fintech, and civic tech.
 
 <p align="center">
   <a href="https://marckengland.com"><strong>marckengland.com</strong></a> ·
