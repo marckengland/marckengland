@@ -98,17 +98,6 @@
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <a href="https://github.com/marckengland">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=marckengland&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckengland&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
-</p>
-
----
-
 ### 💬 Let's work together
 
 I'm open to **freelance, contract, and full-time** opportunities — especially in AI products, multi-tenant SaaS, fintech, and civic tech.
