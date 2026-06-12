@@ -26,7 +26,7 @@
 | Project                                                         | What it does                                                                                                                   | Status                |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
 | **[Investonks](https://marckengland.com/#projects)**            | Investment tracker with a crash radar that compares today's market against 7 past financial crises and an AI portfolio advisor | 🟣 Beta · Invite only |
-| **[PDF Shrinkinator](https://pdf-shrinkinator.vercel.app)**     | Free PDF compressor and click-to-edit visual text editor - no Adobe needed                                                     | 🟢 Live               |
+| **[PDF Shrinkinator](https://pdf-shrinkinator.vercel.app)**     | Free PDF compressor and click-to-edit visual text editor (no Adobe needed)                                                     | 🟢 Live               |
 | **[Flowrish CRM](https://marckengland.com/#projects)**          | Sales CRM with AI-drafted emails and Gmail-threaded follow-ups so prospects see one conversation, not five                     | ⚪ Private            |
 | **[Digital Immune System](https://marckengland.com/#projects)** | AI fact-checking for the Philippines with a community jury for gray-area claims                                                | ⚪ Private            |
 | **[Bakit Kita Iboboto?](https://marckengland.com/#projects)**   | Transparency platform: 1,300+ politicians, 165,000+ bills, 77 fact-checked controversies                                       | 🟡 In Development     |
