@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://marckengland.com">
-    <img src="https://img.shields.io/badge/Portfolio-marckengland.com-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    Portfolio
   </a>
   <a href="https://linkedin.com/in/marckengland">
-    <img src="https://img.shields.io/badge/LinkedIn-marckengland-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    LinkedIn
   </a>
   <a href="https://marckengland.com/hire">
-    <img src="https://img.shields.io/badge/Available_Q3_2026-Hire_me-10b981?style=for-the-badge" alt="Available for hire" />
+    Available for hire
   </a>
 </p>
 
