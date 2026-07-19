@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Marck England Bautista</h1>
 
 <p align="center">
@@ -73,4 +72,4 @@ More on [marckengland.com/#projects](https://marckengland.com/#projects).
 - Usually replies within 4 hours
 
 📩 [Book a 30-min call](https://marckengland.com/hire) · [Send a message](https://marckengland.com/#contact) · [Read my CV](https://marckengland.com)
-```
+
