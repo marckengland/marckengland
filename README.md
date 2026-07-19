@@ -1,109 +1,76 @@
+```markdown
 <h1 align="center">Marck England Bautista</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer</strong> · Philippines 🇵🇭
+  Full-stack software engineer building AI SaaS, RAG pipelines, and workflow automation for founders and product teams worldwide.
 </p>
 
 <p align="center">
-  I build AI-powered platforms, automation systems, and custom web apps<br />
-  that save teams time and drive real results.
-</p>
-
-<p align="center">
-  <a href="https://marckengland.com"><strong>Portfolio</strong></a> ·
-  <a href="https://linkedin.com/in/marckengland"><strong>LinkedIn</strong></a> ·
-  <a href="https://marckengland.com/#contact"><strong>Get in touch</strong></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%C2%B7%20Contract%20%C2%B7%20Full--time-22c55e?style=for-the-badge" alt="Open to opportunities" />
+  <a href="https://marckengland.com">
+    <img src="https://img.shields.io/badge/Portfolio-marckengland.com-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/marckengland">
+    <img src="https://img.shields.io/badge/LinkedIn-marckengland-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://marckengland.com/hire">
+    <img src="https://img.shields.io/badge/Available_Q3_2026-Hire_me-10b981?style=for-the-badge" alt="Available for hire" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Recent projects
+## 👋 What I do
 
-| Project                                                         | What it does                                                                                                                   | Status                |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
-| **[Investonks](https://marckengland.com/#projects)**            | Investment tracker with a crash radar that compares today's market against 7 past financial crises and an AI portfolio advisor | 🟣 Beta · Invite only |
-| **[PDF Shrinkinator](https://pdf-shrinkinator.vercel.app)**     | Free PDF compressor and click-to-edit visual text editor (no Adobe needed)                                                     | 🟢 Live               |
-| **[Flowrish CRM](https://marckengland.com/#projects)**          | Sales CRM with AI-drafted emails and Gmail-threaded follow-ups so prospects see one conversation, not five                     | ⚪ Private            |
-| **[Digital Immune System](https://marckengland.com/#projects)** | AI fact-checking for the Philippines with a community jury for gray-area claims                                                | ⚪ Private            |
-| **[Bakit Kita Iboboto?](https://marckengland.com/#projects)**   | Transparency platform: 1,300+ politicians, 165,000+ bills, 77 fact-checked controversies                                       | 🟡 In Development     |
-| **[Variety Imnida POS](https://marckengland.com/#projects)**    | Anti-theft POS for sari-sari stores that catches every missing peso and works through brownouts                                | ⚪ Private            |
+I turn messy business processes into software that runs itself.
 
-> Most repos are private. See [the portfolio](https://marckengland.com/#projects) for screenshots and full write-ups.
+- **AI chatbots** trained on real business data — WhatsApp, Messenger, Instagram, LINE, all unified
+- **RAG pipelines** that ground LLMs in your knowledge base — no more hallucinated answers
+- **Workflow automation** with n8n, Celery, and event-driven systems that replace manual triage
+- **Custom SaaS & CRMs** for teams that outgrew their spreadsheet
+- **Mobile-web integrated products** with React Native and a shared TypeScript backend
 
----
+Currently at **Control Flow Labs** (Singapore) as a full-stack engineer. Open to freelance and contract work — see [marckengland.com/hire](https://marckengland.com/hire).
 
-### 🛠️ Tech I reach for
+## 🚀 Featured Work
 
-**Languages**
+### [Investonks](https://marckengland.com/showcase/investonks) — Multi-asset investment platform with AI-assisted analysis
+Real-time tracking across stocks, crypto, ETFs, and global markets. AI advisor grounded in the user's actual portfolio. Live in private beta.
+`Next.js 16` · `TypeScript` · `PostgreSQL` · `Google Gemini` · `TradingView Charts`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### [Digital Immune System (Factsheet)](https://marckengland.com/showcase/factsheet) — Spot misinformation in seconds
+iOS + Android app for the Philippines. Share any link, get a Green/Red/Gray verdict backed by Rappler, VERA Files, and other trusted sources — powered by an NLP + RAG pipeline.
+`React Native` · `FastAPI` · `pgvector` · `NATS` · `Google Gemini`
 
-**Frameworks**
+### [Flowrish CRM](https://marckengland.com/showcase/flowrish) — Sales CRM that runs your follow-up game on autopilot
+7-step cadences to 1,000+ leads. AI-drafted emails per prospect. Follow-ups stay threaded in Gmail.
+`Next.js 15` · `Supabase` · `Inngest` · `Tiptap`
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-393?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+### [Bakit Kita Iboboto?](https://marckengland.com/showcase/bakit-kita-iboboto) — Know who you're voting for
+Philippine politician track records — 165,000+ bills tracked to their authors, 77 fact-checked controversies, family trees of political dynasties.
+`Next.js 16` · `Elasticsearch` · `Redis` · `Prisma`
 
-**Databases & data**
+### [PDF Tools](https://pdf-shrinkinator.vercel.app/) — Shrink and edit PDFs without paying Adobe
+Up to 80% smaller files, click-to-edit text, no watermarks. Live and free.
+`FastAPI` · `Ghostscript` · `PyMuPDF` · `Next.js`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+More on [marckengland.com/#projects](https://marckengland.com/#projects).
 
-**AI & APIs**
+## 🧰 Tech I reach for
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+**Languages** — TypeScript · Python · JavaScript
+**Frontend** — Next.js · React · React Native · Tailwind CSS · Electron
+**Backend** — Node.js · FastAPI · Flask · Django · Express · tRPC
+**AI** — OpenAI · Google Gemini · LangChain · RAG · pgvector · MCP
+**Data** — PostgreSQL · Prisma · Elasticsearch · Redis · MongoDB · SQLite
+**Infra** — AWS · GCP · Vercel · Supabase · Docker · Cloudflare · Inngest · NATS JetStream
+**Automation** — n8n · Celery · Meta API · LINE API · Microsoft Outlook API · Webhooks · Cron
+**Testing** — Vitest · Jest · Playwright · fast-check · Hypothesis
 
-**Cloud & DevOps**
+## 🤝 Open to work
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- Freelance & contract engagements (project-based or retainer)
+- Long-term embedded roles at AI-first startups
+- Usually replies within 4 hours
 
-**Testing**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![fast--check](https://img.shields.io/badge/fast--check-4B0082?style=flat)
-![Hypothesis](https://img.shields.io/badge/Hypothesis-3F51B5?style=flat&logo=python&logoColor=white)
-
----
-
-### 💡 What I specialize in
-
-- **Production AI integration** - RAG pipelines grounded in real data (not generic LLM guesses), function-calling tools, multi-step agents
-- **Multi-tenant SaaS** - secure, isolated, scalable platforms with proper RBAC
-- **Offline-first apps** - desktop and mobile that survive brownouts and bad networks
-- **Workflow automation** - durable background jobs, scheduled tasks, one-click approvals
-- **Property-based testing** - using fast-check and Hypothesis to catch bugs example tests miss
-
----
-
-### 💬 Let's work together
-
-I'm open to **freelance, contract, and full-time** opportunities - especially in AI products, multi-tenant SaaS, fintech, and civic tech.
-
-<p align="center">
-  <a href="https://marckengland.com"><strong>marckengland.com</strong></a> ·
-  <a href="https://linkedin.com/in/marckengland"><strong>LinkedIn</strong></a> ·
-  <a href="https://marckengland.com/#contact"><strong>Send a message</strong></a>
-</p>
+📩 [Book a 30-min call](https://marckengland.com/hire) · [Send a message](https://marckengland.com/#contact) · [Read my CV](https://marckengland.com)
+```
