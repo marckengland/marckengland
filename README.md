@@ -5,15 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://marckengland.com">
-    Portfolio
-  </a>
-  <a href="https://linkedin.com/in/marckengland">
-    LinkedIn
-  </a>
-  <a href="https://marckengland.com/hire">
-    Available for hire
-  </a>
+  <a href="https://marckengland.com"><strong>Portfolio</strong></a> ·
+  <a href="https://linkedin.com/in/marckengland"><strong>LinkedIn</strong></a> ·
+  <a href="https://marckengland.com/hire"><strong>Available for hire</strong></a>
 </p>
 
 ---
