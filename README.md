@@ -1,4 +1,4 @@
-<h1 align="center">Marck England Bautista</h1>
+****<h1 align="center">Marck England Bautista</h1>
 
 <p align="center">
   Full-stack software engineer building AI SaaS, RAG pipelines, and workflow automation for founders and product teams worldwide.
@@ -65,5 +65,5 @@ More on [marckengland.com/#projects](https://marckengland.com/#projects).
 - Long-term embedded roles at AI-first startups
 - Usually replies within 4 hours
 
-📩 [Book a 30-min call](https://marckengland.com/hire) · [Send a message](https://marckengland.com/#contact)
+📩 [Book a call](https://marckengland.com/hire) · [Send a message](https://marckengland.com/#contact)
 
