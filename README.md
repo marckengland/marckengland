@@ -71,4 +71,4 @@ More on [marckengland.com/#work](https://marckengland.com/#work).
 - Long-term embedded roles at AI-first startups
 - Usually replies within 4 hours
 
-📩 [Book a call](https://marckengland.com/hire) · [Send a message](https://marckengland.com/#contact) · [Read my CV](https://marckengland.com)
+📩 [Book a call](https://marckengland.com/hire) · [Send a message](https://marckengland.com/#contact)
