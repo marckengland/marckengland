@@ -28,7 +28,7 @@ I turn messy business processes into software that runs itself.
 - **Custom SaaS & CRMs** for teams that outgrew their spreadsheet
 - **Mobile-web integrated products** with React Native and a shared TypeScript backend
 
-Currently at **Control Flow Labs** (Singapore) as a full-stack engineer. Open to freelance and contract work. See [marckengland.com/hire](https://marckengland.com/hire).
+Previously at **Intelligence Flow, Inc.** (Tech Startup) as a full-stack software engineer. Open to freelance and contract work. See [marckengland.com/hire](https://marckengland.com/hire).
 
 ## 🚀 Featured Work
 
