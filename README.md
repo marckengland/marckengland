@@ -18,7 +18,7 @@
 
 ---
 
-## 👋 What I do
+## What I do
 
 I turn messy business processes into software that runs itself.
 
@@ -30,7 +30,7 @@ I turn messy business processes into software that runs itself.
 
 Previously at **Intelligence Flow, Inc.** (Tech Startup) as a full-stack software engineer. Open to freelance and contract work. See [marckengland.com/hire](https://marckengland.com/hire).
 
-## 🚀 Featured Work
+## Featured Work
 
 ### [AI Investment Platform](https://marckengland.com/#investonks) — Multi-asset investment platform with AI-assisted analysis
 
@@ -59,7 +59,7 @@ Up to 80% smaller files, click-to-edit text, no watermarks. Live and free.
 
 More on [marckengland.com/#work](https://marckengland.com/#work).
 
-## 🧰 Tech I reach for
+## Tech I reach for
 
 **Languages:** TypeScript · Python · JavaScript
 
@@ -77,7 +77,7 @@ More on [marckengland.com/#work](https://marckengland.com/#work).
 
 **Testing:** Vitest · Jest · Playwright · fast-check · Hypothesis
 
-## 🤝 Open to work
+## Open to work
 
 - Freelance & contract engagements (project-based or retainer)
 - Long-term embedded roles at AI-first startups
