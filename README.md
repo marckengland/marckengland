@@ -63,12 +63,19 @@ More on [marckengland.com/#work](https://marckengland.com/#work).
 ## Tech I reach for
 
 **Languages:** TypeScript · Python · JavaScript
+
 **Frontend:** Next.js · React · React Native · Tailwind CSS · Electron
+
 **Backend:** Node.js · FastAPI · Litestar · Flask · Django · Express · tRPC
+
 **AI:** OpenAI · Google Gemini · Anthropic · LangChain · Pydantic AI · RAG · pgvector · MCP
+
 **Data:** PostgreSQL · Prisma · Elasticsearch · Redis · MongoDB · SQLite
+
 **Infra:** AWS · GCP · Vercel · Supabase · Docker · Cloudflare · Inngest · NATS JetStream
+
 **Automation:** n8n · Celery · Meta API · LINE API · Microsoft Outlook API · Webhooks · Cron
+
 **Testing:** Vitest · Jest · Playwright · fast-check · Hypothesis
 
 ## Open to work
