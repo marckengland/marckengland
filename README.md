@@ -22,7 +22,7 @@
 
 I turn messy business processes into software that runs itself.
 
-- **AI chatbots** trained on real business data, unified across 15+ messaging apps and e-commerce marketplaces in one inbox
+- **AI chatbots** trained on real business data, unified across 18 messaging apps and e-commerce marketplaces in one inbox
 - **RAG pipelines** (Vector + Graph RAG) that ground LLMs in your knowledge base, so no more hallucinated answers
 - **Multi-tenant SaaS & CRMs** for teams that outgrew their spreadsheet, with per-tenant isolation and AI-cost governance
 - **Workflow automation** with n8n, LangChain, MCP, Celery, and event-driven systems that replace manual triage
