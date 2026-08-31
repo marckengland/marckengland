@@ -1,7 +1,7 @@
 <h1 align="center">Marck England</h1>
 
 <p align="center">
-  Full-stack software engineer building AI SaaS, RAG pipelines, and workflow automation for founders and product teams worldwide.
+  AI-focused software engineer shipping Generative AI systems end to end, from proof-of-concept to secure, cloud-native production across AWS, GCP, and Vercel.
 </p>
 
 <p align="center">
@@ -22,37 +22,38 @@
 
 I turn messy business processes into software that runs itself.
 
-- **AI chatbots** trained on real business data: WhatsApp, Messenger, Instagram, LINE, all unified
-- **RAG pipelines** that ground LLMs in your knowledge base, so no more hallucinated answers
-- **Workflow automation** with n8n, Celery, and event-driven systems that replace manual triage
-- **Custom SaaS & CRMs** for teams that outgrew their spreadsheet
+- **AI chatbots** trained on real business data, unified across 15+ messaging apps and e-commerce marketplaces in one inbox
+- **RAG pipelines** (Vector + Graph RAG) that ground LLMs in your knowledge base, so no more hallucinated answers
+- **Multi-tenant SaaS & CRMs** for teams that outgrew their spreadsheet, with per-tenant isolation and AI-cost governance
+- **Workflow automation** with n8n, LangChain, MCP, Celery, and event-driven systems that replace manual triage
+- **Security-hardened, observable deployments** across AWS, GCP, and Vercel, with rate limiting, caching, and cost controls baked in
 - **Mobile-web integrated products** with React Native and a shared TypeScript backend
 
-Previously at **Intelligence Flow, Inc.** (Tech Startup) as a full-stack software engineer. Open to freelance and contract work. See [marckengland.com/hire](https://marckengland.com/hire).
+Founding engineer at **Intelligence Flow, Inc.** (Taguig, Apr 2024 – Aug 2026), where I built their multi-tenant, omnichannel AI customer-support platform, working closely with stakeholders to turn business requirements into production systems. Now open to freelance, contract, and embedded roles. See [marckengland.com/hire](https://marckengland.com/hire).
 
 ## Featured Work
 
-### [AI Investment Platform](https://marckengland.com/#investonks) — Multi-asset investment platform with AI-assisted analysis
+### [AI Investment Platform](https://marckengland.com/#investonks): Multi-asset investment platform with AI-assisted analysis
 
 Real-time tracking across stocks, crypto, ETFs, and global markets. AI advisor grounded in the user's actual portfolio. Live in private beta.
 `Next.js 16` · `TypeScript` · `PostgreSQL` · `Google Gemini` · `TradingView Charts`
 
-### [Real-Time Fact Checker](https://marckengland.com/#factsheet) — Spot misinformation in seconds
+### [Real-Time Fact Checker](https://marckengland.com/#factsheet): Spot misinformation in seconds
 
 iOS + Android app for the Philippines. Share any link, get a Green/Red/Gray verdict backed by Rappler, VERA Files, and other trusted sources. Powered by an NLP + RAG pipeline.
 `React Native` · `FastAPI` · `pgvector` · `NATS` · `Google Gemini`
 
-### [Autopilot Sales CRM](https://marckengland.com/#flowrish) — Sales CRM that runs your follow-up game on autopilot
+### [Autopilot Sales CRM](https://marckengland.com/#flowrish): Sales CRM that runs your follow-up game on autopilot
 
 7-step cadences to 1,000+ leads. AI-drafted emails per prospect. Follow-ups stay threaded in Gmail.
 `Next.js 15` · `Supabase` · `Inngest` · `Tiptap`
 
-### [Voter Intelligence Platform](https://marckengland.com/#bakit-kita-iboboto) — Know who you're voting for
+### [Voter Intelligence Platform](https://marckengland.com/#bakit-kita-iboboto): Know who you're voting for
 
 Philippine politician track records: 165,000+ bills tracked to their authors, 77 fact-checked controversies, family trees of political dynasties.
 `Next.js 16` · `Elasticsearch` · `Redis` · `Prisma`
 
-### [quire — PDF Compressor & Editor](https://quire.marckengland.com/) — Shrink and edit PDFs without paying Adobe
+### [quire: PDF Compressor & Editor](https://quire.marckengland.com/): Shrink and edit PDFs without paying Adobe
 
 Up to 80% smaller files, click-to-edit text, no watermarks. Live and free.
 `FastAPI` · `Ghostscript` · `PyMuPDF` · `Next.js`
@@ -62,19 +63,12 @@ More on [marckengland.com/#work](https://marckengland.com/#work).
 ## Tech I reach for
 
 **Languages:** TypeScript · Python · JavaScript
-
 **Frontend:** Next.js · React · React Native · Tailwind CSS · Electron
-
-**Backend:** Node.js · FastAPI · Flask · Django · Express · tRPC
-
-**AI:** OpenAI · Google Gemini · LangChain · RAG · pgvector · MCP
-
+**Backend:** Node.js · FastAPI · Litestar · Flask · Django · Express · tRPC
+**AI:** OpenAI · Google Gemini · Anthropic · LangChain · Pydantic AI · RAG · pgvector · MCP
 **Data:** PostgreSQL · Prisma · Elasticsearch · Redis · MongoDB · SQLite
-
 **Infra:** AWS · GCP · Vercel · Supabase · Docker · Cloudflare · Inngest · NATS JetStream
-
 **Automation:** n8n · Celery · Meta API · LINE API · Microsoft Outlook API · Webhooks · Cron
-
 **Testing:** Vitest · Jest · Playwright · fast-check · Hypothesis
 
 ## Open to work
