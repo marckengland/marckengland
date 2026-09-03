@@ -53,11 +53,6 @@ iOS + Android app for the Philippines. Share any link, get a Green/Red/Gray verd
 Philippine politician track records: 165,000+ bills tracked to their authors, 77 fact-checked controversies, family trees of political dynasties.
 `Next.js 16` · `Elasticsearch` · `Redis` · `Prisma`
 
-### [quire: PDF Compressor & Editor](https://quire.marckengland.com/): Shrink and edit PDFs without paying Adobe
-
-Up to 80% smaller files, click-to-edit text, no watermarks. Live and free.
-`FastAPI` · `Ghostscript` · `PyMuPDF` · `Next.js`
-
 More on [marckengland.com/#work](https://marckengland.com/#work).
 
 ## Tech I reach for
