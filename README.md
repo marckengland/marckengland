@@ -1,7 +1,7 @@
 <h1 align="center">Marck England</h1>
 
 <p align="center">
-  AI-focused software engineer shipping Generative AI systems end to end, from proof-of-concept to secure, cloud-native production across AWS, GCP, and Vercel.
+  AI-focused Software Engineer shipping Generative AI systems end to end, from proof-of-concept to secure, cloud-native production across AWS, GCP, and Vercel.
 </p>
 
 <p align="center">
